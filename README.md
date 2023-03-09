@@ -11,7 +11,7 @@ Aplicação para o Estágio de Análise e Desenvolvimento para a empresa Target 
 	Ao final do processamento, qual será o valor da variável SOMA?*/
 
 
-//    SOMA = 91, com o loop se repetindo 13 vezes (começando com k=0 ... k=12)
+##SOMA = 91, com o loop se repetindo 13 vezes (começando com k=0 ... k=12)
 
 
 3) Descubra a lógica e complete o próximo elemento:
