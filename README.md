@@ -12,7 +12,7 @@ Observe o trecho de código abaixo:
 	Ao final do processamento, qual será o valor da variável SOMA?*/
 
 
-SOMA = 91, com o loop se repetindo 13 vezes (começando com k=0 ... k=12)
+//  SOMA = 91, com o loop se repetindo 13 vezes (começando com k=0 ... k=12)
 
 
 ## 3) 
